@@ -29,6 +29,41 @@ this is based on the web series created by Software Engineering Skills for build
 ### Contact Page
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/6095d474-d0ef-4429-be3c-f44352651ff8">
 
+VSCode
+
+## Angular Extensions
+
+### Angular Language Service
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/aa38ad96-2e70-428a-9809-9492e5d8cf75">
+
+### Angular Snippets Version 13
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/5b81ac1d-c481-4653-9eb5-77a761a76004">
+
+### Material Icon Theme
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/a211a9e6-9412-4af4-946b-3e2fa82e0e80">
+
+#### Settings for Material Settings
+   VSCode Settings ->  Seach String "Bracket" -> CheckMark "Editor - Bracket Pair Colorization"
+                                              -> CheckMark "Editor - Guides: Bracket Pairs"
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/1892a101-eef3-48b9-ad73-8e90d43dc973">
+
+#### Installation of Node Version & Angular CLI
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/7e65cf06-296a-4f24-b93c-e367b97e9aaa">
+
+#### Verify Angular Version | using Angular 15
+<img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/eb11f2e2-010c-4fd2-9e2c-7a4e51470fd7">
+
+
+
+   
+    
+
+
+
+
+
+
+
 
 
 
