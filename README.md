@@ -1,6 +1,7 @@
 # cloud-engineer-sri-portfolio
 this is based on the web series created by Software Engineering Skills for building Portfolio
 ### Home Page
+<hr/>
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/1b1effae-9dc4-42c5-8877-ac4073aceb06">
 <br/>
 <hr/>
