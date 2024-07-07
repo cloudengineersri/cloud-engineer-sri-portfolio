@@ -1,6 +1,6 @@
 # cloud-engineer-sri-portfolio
 ## [Video Series Link](https://www.youtube.com/watch?v=pGZvI6GCr2g&list=PLN0Th-4WgKrUVQlqa14mUDeymTW1luznW)
-# [Creating an Angular Portfolio Website 01: Course Introduction] (https://www.youtube.com/watch?v=pGZvI6GCr2g&list=PLN0Th-4WgKrUVQlqa14mUDeymTW1luznW&index=2)
+# [Creating an Angular Portfolio Website 01: Course Introduction](https://www.youtube.com/watch?v=pGZvI6GCr2g&list=PLN0Th-4WgKrUVQlqa14mUDeymTW1luznW&index=2)
 this is based on the web series created by Software Engineering Skills for building Portfolio
 ### Home Page
 <hr/>
