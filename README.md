@@ -1,4 +1,5 @@
 # cloud-engineer-sri-portfolio
+# Video 1
 this is based on the web series created by Software Engineering Skills for building Portfolio
 ### Home Page
 <hr/>
@@ -29,7 +30,8 @@ this is based on the web series created by Software Engineering Skills for build
 ### Contact Page
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/6095d474-d0ef-4429-be3c-f44352651ff8">
 
-VSCode
+# Video 2
+## VSCode
 
 ## Angular Extensions
 
@@ -53,6 +55,8 @@ VSCode
 #### Verify Angular Version | using Angular 15
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/eb11f2e2-010c-4fd2-9e2c-7a4e51470fd7">
 
+
+# Video 3
 
 
    
