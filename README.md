@@ -11,6 +11,7 @@ this is based on the web series created by Software Engineering Skills for build
 <br/>
 ### Certification Section
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/a1a7733e-213a-4935-a536-55844c7e5b02">
+<hr>
 ### Contact Page
 <img width="1616" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/6095d474-d0ef-4429-be3c-f44352651ff8">
 
