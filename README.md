@@ -83,6 +83,17 @@ Expand the project src/index.html
  "<app-root/>" is the entry point of the angular application.
  <img width="958" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/d4356606-74b4-46e6-aeb1-2199b5d6a8ae">
 
+ To Start the angular application
+ with in the folder type the command ng serve
+ ```
+ng serve
+ ```
+<img width="958" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/2f32a274-1bc4-4957-be7f-ecbab77819af">
+
+look and feel of the angular app
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/d8c4a164-0b65-4661-9983-b91c10c9b450)
+
+
  
 
 
