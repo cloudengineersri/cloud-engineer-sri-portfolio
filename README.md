@@ -143,6 +143,9 @@ ng build
 <hr/>
  
 
+Now open app.component.html, clear the entire content and add <h1> Hello World Angular 15.x</h1>
+
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/65e47ad1-9bb2-40ce-b3cc-ec221c684001)
 
 
 
