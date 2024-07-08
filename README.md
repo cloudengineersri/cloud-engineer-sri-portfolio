@@ -59,6 +59,35 @@ this is based on the web series created by Software Engineering Skills for build
 
 # [Creating an Angular Portfolio Website 03: Creating the Project](https://www.youtube.com/watch?v=PSI4T8SHb0g&list=PLN0Th-4WgKrUVQlqa14mUDeymTW1luznW&index=3)
 
+Verifying ng --version
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/58443ab3-4e17-4d99-be1a-918745ae7e19">
+
+Angular 15.2.4 & Nide 18.10.0
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/5ea87be7-6078-455a-8552-ead6a95debdc">
+Folder Webapps
+Project Name: AngularPortfolioWebSite
+
+command to create the project
+```
+npm install -g @angular/cli@15
+ng new AngularPortfolioWebSite
+```
+output
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/4160e522-91a1-4c12-84b3-23230468ef54)
+
+Angular Project will be created in WebApp/AngularPortfolioWebSite as shown in the screenshot.
+Expand the project src/index.html
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/9f2bf861-0435-4bba-b3d1-dd011ac4327e)
+
+ <app-root></app-root>
+ "<app-root/>" is the entry point of the angular application.
+ <img width="958" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/d4356606-74b4-46e6-aeb1-2199b5d6a8ae">
+
+ 
+
+
+
+
 
    
     
