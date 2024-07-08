@@ -93,6 +93,42 @@ ng serve
 look and feel of the angular app
 ![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/d8c4a164-0b65-4661-9983-b91c10c9b450)
 
+Commonly used commands
+1. Generate New Angular Component
+   ```
+   ng generate component xyz
+   ```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/12a9f715-412e-4195-93c7-8cb735f613e1)
+2. Add Material
+```
+ng add @angular/material
+```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/832d916e-3222-47f1-9462-2bc2255932e7)
+
+3. Add PWA support
+```
+ng add @angular/pwa
+```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/6615196a-4def-4c33-8cd9-59f0af1cda92)
+
+4.Add Dependency
+```
+ng add _____
+```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/2fe8ef71-50f1-4472-8d48-9349e8d1f67e)
+
+5. Run and Watch Tests
+``
+ng test
+```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/7c867460-b164-4479-94b4-fb0257394a3a)
+
+6. Build Production
+```
+ng build
+```
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/1f4bea54-6dc4-4602-a16b-d32e83a65abd)
+
 
  
 
