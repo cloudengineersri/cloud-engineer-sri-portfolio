@@ -148,6 +148,42 @@ Now open app.component.html, clear the entire content and add <h1> Hello World A
 ![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/65e47ad1-9bb2-40ce-b3cc-ec221c684001)
 
 
+App Component
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/c43a6f57-b2eb-4ed9-9f36-2efc76e69ed2">
+
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/0c41e061-067f-42ee-af68-ebce743b5457">
+Adding title to html component inserting <h1>{{title}}</h1>
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/200a581f-be0f-4ff4-bdbd-671916ef5bb8">
+
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/7ccadcbe-e662-4249-95c4-67ab570a645c">
+
+<br/>
+![image](https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/7ca8b3ce-1cdb-43be-ab49-3bda1ac5ae0d)
+
+The selector in html app component used refered in index.html 
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/452dcfc0-de01-45aa-9990-decfb10dd17b">
+
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/44fa7810-38d2-4339-8d01-f295524756fe">
+
+App.module file
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/4a31b9a5-06da-41ae-bfc8-191034c1475f">
+
+declarations : will contain all the components we generate
+and 
+imports are modules which we define in the project and refer in app.
+
+angular.json - Angular configurations..
+<img width="1680" alt="image" src="https://github.com/cloudengineersri/cloud-engineer-sri-portfolio/assets/174270053/2a609db6-598f-4e6d-8854-db544011cbe8">
+
+
+
+
+
+
+
+
+
+
 
 
    
